@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="refresh" content="0; url=YOUR_CPA_AFFILIATE_LINK" />
+  <meta http-equiv="refresh" content="0; url=https://www.homerentlist.xyz/" />
   <title>Redirecting...</title>
 </head>
 <body>
-  <p>Redirecting... Jodi automatic redirect na hoy, <a href="YOUR_CPA_AFFILIATE_LINK">click here</a>.</p>
+  <p>Redirecting... Jodi automatic redirect na hoy, <a href="https://www.homerentlist.xyz/">click here</a>.</p>
 </body>
 </html>
