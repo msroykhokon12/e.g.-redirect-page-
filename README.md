@@ -6,6 +6,6 @@
   <title>Redirecting...</title>
 </head>
 <body>
-  <p>Redirecting... Jodi automatic redirect na hoy, <a href="https://www.homerentlist.xyz/">click here</a>.</p>
+  <p><a href="https://www.homerentlist.xyz/">click here</a>.</p>
 </body>
 </html>
